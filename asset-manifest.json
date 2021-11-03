@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/demosite/static/css/main.90c2b216.chunk.css",
+    "main.js": "/demosite/static/js/main.bceed85a.chunk.js",
+    "main.js.map": "/demosite/static/js/main.bceed85a.chunk.js.map",
+    "runtime-main.js": "/demosite/static/js/runtime-main.1a73b4cb.js",
+    "runtime-main.js.map": "/demosite/static/js/runtime-main.1a73b4cb.js.map",
+    "static/js/2.21587c86.chunk.js": "/demosite/static/js/2.21587c86.chunk.js",
+    "static/js/2.21587c86.chunk.js.map": "/demosite/static/js/2.21587c86.chunk.js.map",
+    "static/js/3.176e221e.chunk.js": "/demosite/static/js/3.176e221e.chunk.js",
+    "static/js/3.176e221e.chunk.js.map": "/demosite/static/js/3.176e221e.chunk.js.map",
+    "index.html": "/demosite/index.html",
+    "static/css/main.90c2b216.chunk.css.map": "/demosite/static/css/main.90c2b216.chunk.css.map",
+    "static/js/2.21587c86.chunk.js.LICENSE.txt": "/demosite/static/js/2.21587c86.chunk.js.LICENSE.txt",
+    "static/media/portoengenharia.e7193abc.svg": "/demosite/static/media/portoengenharia.e7193abc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a73b4cb.js",
+    "static/js/2.21587c86.chunk.js",
+    "static/css/main.90c2b216.chunk.css",
+    "static/js/main.bceed85a.chunk.js"
+  ]
+}
