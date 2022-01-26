@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/demosite/static/css/main.5296be34.chunk.css",
-    "main.js": "/demosite/static/js/main.705d0a61.chunk.js",
-    "main.js.map": "/demosite/static/js/main.705d0a61.chunk.js.map",
+    "main.css": "/demosite/static/css/main.0c382030.chunk.css",
+    "main.js": "/demosite/static/js/main.d11d068e.chunk.js",
+    "main.js.map": "/demosite/static/js/main.d11d068e.chunk.js.map",
     "runtime-main.js": "/demosite/static/js/runtime-main.1a73b4cb.js",
     "runtime-main.js.map": "/demosite/static/js/runtime-main.1a73b4cb.js.map",
     "static/js/2.cf6ff187.chunk.js": "/demosite/static/js/2.cf6ff187.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.176e221e.chunk.js": "/demosite/static/js/3.176e221e.chunk.js",
     "static/js/3.176e221e.chunk.js.map": "/demosite/static/js/3.176e221e.chunk.js.map",
     "index.html": "/demosite/index.html",
-    "static/css/main.5296be34.chunk.css.map": "/demosite/static/css/main.5296be34.chunk.css.map",
+    "static/css/main.0c382030.chunk.css.map": "/demosite/static/css/main.0c382030.chunk.css.map",
     "static/js/2.cf6ff187.chunk.js.LICENSE.txt": "/demosite/static/js/2.cf6ff187.chunk.js.LICENSE.txt",
     "static/media/portoengenharia.e7193abc.svg": "/demosite/static/media/portoengenharia.e7193abc.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1a73b4cb.js",
     "static/js/2.cf6ff187.chunk.js",
-    "static/css/main.5296be34.chunk.css",
-    "static/js/main.705d0a61.chunk.js"
+    "static/css/main.0c382030.chunk.css",
+    "static/js/main.d11d068e.chunk.js"
   ]
 }
